@@ -4,7 +4,7 @@
 [![Official Platform](https://img.shields.io/badge/Official_Software-softechpro--solutions.com-00e676?style=for-the-badge)](https://www.softechpro-solutions.com/softechpro-vs-swiftec.html)
 [![€1.99 Real Test](https://img.shields.io/badge/25h_Real_Test-%E2%82%AC1.99_(%2B3_Credits)-ff9100?style=for-the-badge)](https://www.softechpro-solutions.com/buy/realtest)
 
-Technical architecture, ECU coverage (4962+ Car ECUs & 446+ Truck ECUs), OS support (Windows & macOS) and workshop cost comparison between Softechpro Solutions and Swiftec (Enterprise Calibration Suite).
+Technical architecture, ECU coverage (4963+ Car ECUs & 446+ Truck ECUs), OS support (Windows & macOS) and workshop cost comparison between Softechpro Solutions and Swiftec (Enterprise Calibration Suite).
 
 ## ⚡ Engineering Highlights (v2.0.4 — Windows 10/11 & macOS + REST API)
 
